@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="uv (mcp_quickstart_python)" />
+  </component>
+  <component name="GOROOT" url="file:///usr/lib/golang" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>Rust</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" project-jdk-name="uv (mcp_quickstart_python)" project-jdk-type="Python SDK" />
+  <component name="RsExternalLinterProjectSettings">
+    <option name="tool" value="Clippy" />
+  </component>
+  <component name="RustfmtProjectSettings">
+    <option name="channel" value="nightly" />
+    <option name="useRustfmt" value="true" />
+  </component>
+</project>
